@@ -1,3 +1,9 @@
+/*
+  There are two qualities that make a function "pure":
+    - The function depends only on the input provided to it to produce a result (and not on any external state).
+    - The function does not cause any observable side effects, such as modifying a global object or modifying a parameter passed by reference.
+*/
+
 const PI = 3.14;
 
 /* Not pure: it uses the global constant */
