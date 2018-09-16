@@ -13,3 +13,4 @@
 ## Clojure
 
 - [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+- [Clojure challenge](https://github.com/rtaboada/challenge)
