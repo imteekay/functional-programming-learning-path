@@ -11,9 +11,3 @@
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
-
-## Clojure
-
-- [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
-- [Clojure challenge](https://github.com/rtaboada/challenge)
-- [Learning Clojure by Practical.li](http://www.practical.li/clojure)
