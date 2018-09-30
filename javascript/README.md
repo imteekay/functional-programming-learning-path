@@ -1,0 +1,4 @@
+## JavaScript Resources
+
+- [A repo. that demonstrates use of functional programming in javascript](https://github.com/divyanshu-rawat/Functional-Programming-JS)
+- [Entendendo Programação Funcional em JavaScript de uma vez](https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b)
