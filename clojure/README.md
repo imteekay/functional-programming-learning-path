@@ -8,6 +8,7 @@
 ## Tests
 
 - [deftest](https://clojuredocs.org/clojure.test/deftest)
+- [Unit Testing in Functional Programming](https://lispcast.com/unit-testing-in-functional-languages/)
 
 ## Webapps
 
