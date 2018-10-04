@@ -16,6 +16,8 @@
 - [Clojure Webapps](https://practicalli.github.io/clojure-webapps/)
 - [Compojure](https://github.com/weavejester/compojure)
 - [A REST API in Clojure](https://blog.interlinked.org/programming/clojure_rest.html)
+- [Clojure: A live Demonstration of Simplicity That is Production Ready](https://www.youtube.com/watch?v=LcpbBth7FaQ&ab_channel=WixEngineeringTechTalks)
+- [A REST API in Clojure](https://blog.interlinked.org/programming/clojure_rest.html)
 
 ## Challenges
 
