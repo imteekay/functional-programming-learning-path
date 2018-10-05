@@ -22,3 +22,8 @@
 ## Challenges
 
 - [Clojure challenge](https://github.com/rtaboada/challenge)
+
+## Twitter to Follow
+
+- [Lambda Island](https://twitter.com/lambdaisland)
+- [Clojurecademy](https://twitter.com/clojurecademy)
