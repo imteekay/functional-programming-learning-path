@@ -22,6 +22,7 @@
 ## Challenges
 
 - [Clojure challenge](https://github.com/rtaboada/challenge)
+- [4Clojure Problems](http://www.4clojure.com/problems)
 
 ## Twitter to Follow
 
