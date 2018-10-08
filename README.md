@@ -11,3 +11,4 @@
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- [Functional Programming Study Plan](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/)

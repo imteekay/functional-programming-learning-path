@@ -4,6 +4,8 @@
 
 - [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 - [Learning Clojure by Practical.li](http://www.practical.li/clojure)
+- [Lambda Island](https://lambdaisland.com/)
+- [A Year in Clojure](https://blog.taylorwood.io/2017/09/15/year-behind.html)
 
 ## Tests
 
