@@ -1,3 +1,5 @@
+;; https://www.hackerrank.com/challenges/fp-filter-array/problem
+
 (defn filter-array
   [n list]
   (if (< (first list) n)
