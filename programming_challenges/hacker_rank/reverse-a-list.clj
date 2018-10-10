@@ -16,3 +16,9 @@
     (reverse-a-list (rest-from-last list))))
 
 (reverse-a-list [19 22 3 28 26 17 18 4 28 0])
+
+(fn [lst]
+  (loop [list lst]
+    (println (last list))
+    (if (not-empty (rest-from-last list))
+      (recur (rest-from-last list)))))
