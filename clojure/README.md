@@ -25,8 +25,20 @@
 
 - [Clojure challenge](https://github.com/rtaboada/challenge)
 - [4Clojure Problems](http://www.4clojure.com/problems)
+- [Clojure Koans](http://clojurekoans.com/)
+- [Exercism](https://exercism.io/my/tracks/clojure)
+- [Hacker Rank Functional Path](https://hackerrank.com/domains/fp)
+
+## Repositories
+
+- [Purely Functional Data Structures](https://github.com/leonardoborges/purely-functional-data-structures)
+- [Clojure Refactoring](https://github.com/tcrayford/clojure-refactoring)
+- [Functional Programming for the Object-Oriented Programmer](https://github.com/marick/fp-oo)
 
 ## Twitter to Follow
 
 - [Lambda Island](https://twitter.com/lambdaisland)
 - [Clojurecademy](https://twitter.com/clojurecademy)
+- [Planet Clojure](https://twitter.com/planetclojure)
+- [Clojure Bridge SP](https://twitter.com/ClojureBridgeSP)
+- [Clojure Bridge](https://twitter.com/ClojureBridge)
