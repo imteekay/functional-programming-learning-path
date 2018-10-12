@@ -5,7 +5,7 @@
 ;; not-empty function: returns true if the collection is not empty. Otherwise, false
 
 (fn [lst]
-  (loop [list lst]
-    (println (last list))
-    (if (not-empty (rest-from-last list))
-      (recur (rest-from-last list)))))
+  (loop [original-list lst reversed-list []]
+    (if (not-empty original-list)
+      (recur (take (dec (count original-list)) original-list) (conj reversed-list (last original-list)))
+      reversed-list)))
