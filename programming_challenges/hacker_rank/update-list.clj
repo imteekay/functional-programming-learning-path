@@ -17,7 +17,9 @@
   (loop [original-list lst absolute-list []]
     (if (empty? original-list)
       absolute-list
-      (recur (rest original-list) (add-element-from-list-to-list original-list absolute-list)))))
+      (recur
+       (rest original-list)
+       (add-element-from-list-to-list original-list absolute-list)))))
 
 (update-list [])
 (update-list [1 2 3 4 5])
