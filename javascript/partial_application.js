@@ -3,6 +3,9 @@
   into one that will keep returning a new function until it receives all its arguments
 
   "partially apply" some of the arguments now, filling in the rest later.
+
+  Partial application allows us to partially apply certain argument to create
+  new functions out of existing ones. 
 */
 
 const calculateTotal = (amount) => {
