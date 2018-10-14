@@ -1,5 +1,13 @@
 # Resources
 
+## Table of Content
+
+- [Foundation](#foundation)
+- [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
+- [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
+- [Ruby](https://github.com/LeandroTk/learning-functional/tree/master/ruby)
+- [Programming Challenges](https://github.com/LeandroTk/learning-functional/tree/master/programming_challenges)
+
 ## Foundation
 
 - [Functional Programming Learning Path](https://purelyfunctional.tv/learning-paths/functional-programming/)
