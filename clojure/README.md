@@ -7,6 +7,8 @@
 - [Lambda Island](https://lambdaisland.com/)
 - [A Year in Clojure](https://blog.taylorwood.io/2017/09/15/year-behind.html)
 - ["Running With Scissors: Live Coding With Data" by Stuart Halloway](https://www.youtube.com/watch?v=Qx0-pViyIDU&feature=youtu.be&ab_channel=StrangeLoop)
+- [Learn Clojure in Y minutes](https://learnxinyminutes.com/docs/clojure/)
+- [Recursion in Clojure](https://imasters.com.br/desenvolvimento/entendendo-recursividade-com-clojure/)
 
 ## Tests
 
