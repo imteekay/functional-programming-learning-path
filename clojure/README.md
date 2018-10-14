@@ -10,9 +10,11 @@
 - [Learn Clojure in Y minutes](https://learnxinyminutes.com/docs/clojure/)
 - [Recursion in Clojure](https://imasters.com.br/desenvolvimento/entendendo-recursividade-com-clojure/)
 - [Clojure by example](https://kimh.github.io/clojure-by-example)
+- [The Ultimate Guide to Clojure Collections](https://purelyfunctional.tv/guide/clojure-collections/)
 
 ## Tests
 
+- [API for clojure.test](https://clojure.github.io/clojure/clojure.test-api.html)
 - [deftest](https://clojuredocs.org/clojure.test/deftest)
 - [Unit Testing in Functional Programming](https://lispcast.com/unit-testing-in-functional-languages/)
 - [Clojure.test Cheatsheet](https://github.com/LeandroTk/learning-functional/blob/master/clojure/tests/clojure.test-cheatsheet.pdf)
