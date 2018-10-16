@@ -1,10 +1,8 @@
 ;; https://www.hackerrank.com/challenges/fp-update-list/problem
 
-(defn negative? [n] (< n 0))
-
 (defn to-absolute
   [n]
-  (if (negative? n)
+  (if (neg? n)
     (+ (* n -2) n)
     n))
 
