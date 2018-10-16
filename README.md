@@ -1,5 +1,14 @@
 # Resources
 
+## Table of Content
+
+- [Foundation](#foundation)
+- [Declarative Programming](#declarative-programming)
+- [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
+- [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
+- [Ruby](https://github.com/LeandroTk/learning-functional/tree/master/ruby)
+- [Programming Challenges](https://github.com/LeandroTk/learning-functional/tree/master/programming_challenges)
+
 ## Foundation
 
 - [Functional Programming Learning Path](https://purelyfunctional.tv/learning-paths/functional-programming/)
@@ -12,3 +21,14 @@
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [Functional Programming Study Plan](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/)
+- [Your functional journey](https://purelyfunctional.tv/guide/your-functional-journey/)
+- [The Benefits of Pure Functions](https://alvinalexander.com/scala/fp-book/benefits-of-pure-functions)
+- [Pure Functions](https://www.sitepoint.com/functional-programming-pure-functions/)
+- [Immutable data](https://www.sitepoint.com/functional-programming-ruby-value-objects/)
+
+## Declarative Programming
+
+- [What is declarative programming?](https://stackoverflow.com/a/129639/3159162)
+- [Declarative vs Imperative Programming by Ian Mundy](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)
+- [Imperative vs Declarative Programming by Tyler McGinnis](https://tylermcginnis.com/imperative-vs-declarative-programming/)
+- [Imperative versus declarative code… what’s the difference?](https://medium.com/front-end-hacking/imperative-versus-declarative-code-whats-the-difference-adc7dd6c8380)
