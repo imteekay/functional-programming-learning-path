@@ -5,7 +5,7 @@
   (reduce
     +
     (filter
-      (fn [n] (odd? n))
+      (odd? n)
       lst)))
 
 (sum-of-odd-elements [3 2 4 6 5 7 8 0 1])
