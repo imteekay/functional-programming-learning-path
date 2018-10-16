@@ -5,7 +5,7 @@
 (defn to-absolute
   [n]
   (if (negative? n)
-    (+ (* (* n 2) -1) n)
+    (+ (* n -2) n)
     n))
 
 (defn add-element-from-list-to-list

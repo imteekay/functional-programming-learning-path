@@ -10,5 +10,5 @@
        (conj
          absolute-list
          (if (< (first original-list) 0)
-           (+ (* (* (first original-list) 2) -1) (first original-list))
+           (+ (* (first original-list) -2) (first original-list))
            (first original-list)))))))
