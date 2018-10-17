@@ -8,7 +8,7 @@
 
 (defn update-list-map
   [lst]
-  (map (fn [list-item] (to-absolute list-item)) lst))
+  (map to-absolute lst))
 
 (update-list-map [])
 (update-list-map [1 2 3 4 5])
