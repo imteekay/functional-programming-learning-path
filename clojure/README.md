@@ -47,6 +47,10 @@
 - [Clojure Refactoring](https://github.com/tcrayford/clojure-refactoring)
 - [Functional Programming for the Object-Oriented Programmer](https://github.com/marick/fp-oo)
 
+## Databases
+
+- [Learn Datalog Today](http://www.learndatalogtoday.org/)
+
 ## Twitter to Follow
 
 - [Lambda Island](https://twitter.com/lambdaisland)
