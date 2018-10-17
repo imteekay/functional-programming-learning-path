@@ -1,11 +1,9 @@
 ;; https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem
 
-(defn greater-than-zero? [n] (> n 0))
-
 (defn array-of-n-elements-without-range
   [n]
   (loop [n n list []]
-    (if (greater-than-zero? n)
+    (if (pos? n)
       (recur (dec n) (conj list 0))
       list)))
 
