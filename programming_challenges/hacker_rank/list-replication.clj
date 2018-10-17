@@ -2,8 +2,9 @@
 
 (defn list-replication
   [n list]
-  (doseq [item list]
-    (dotimes [_ n] (println item))))
+  (sort
+    (flatten
+      (repeat n list))))
 
 (list-replication 3 [1 2 3])
 (list-replication 2 [4 5])
