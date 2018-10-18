@@ -14,8 +14,6 @@
 (ns eval-ex
   (:use [clojure.test]))
 
-(def ten-terms (range 10))
-
 (defn exp
   [x n]
   (reduce * (repeat n x)))
@@ -33,7 +31,7 @@
   [x]
   (read-string
     (format "%.4f"
-      (reduce + (map (expansion x) ten-terms)))))
+      (reduce + (map (expansion x) (range 10))))))
 
 ;; -----------------------------------------------------------
 
