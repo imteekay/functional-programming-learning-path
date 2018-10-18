@@ -25,18 +25,15 @@
   (reduce * (range 1 (inc n))))
 
 (defn expansion
-  [x n]
-  (/ (exp x n) (factorial n)))
+  [x]
+  (fn [n]
+    (/ (exp x n) (factorial n))))
 
 (defn series-expansion
   [x]
   (read-string
     (format "%.4f"
-      (reduce
-        +
-        (map
-          (fn [n] (expansion x n))
-          ten-terms)))))
+      (reduce + (map (expansion x) ten-terms)))))
 
 ;; -----------------------------------------------------------
 
@@ -56,9 +53,9 @@
 
 (deftest test-expansion
   (testing "Expansion function"
-    (is (= 1 (expansion 10 0)))
-    (is (= 10 (expansion 10 1)))
-    (is (= 50 (expansion 10 2)))))
+    (is (= 1 ((expansion 10) 0)))
+    (is (= 10 ((expansion 10) 1)))
+    (is (= 50 ((expansion 10) 2)))))
 
 (deftest test-series-expansion
   (testing "Sample Input - Output"
