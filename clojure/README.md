@@ -11,6 +11,8 @@
 - [Recursion in Clojure](https://imasters.com.br/desenvolvimento/entendendo-recursividade-com-clojure/)
 - [Clojure by example](https://kimh.github.io/clojure-by-example)
 - [The Ultimate Guide to Clojure Collections](https://purelyfunctional.tv/guide/clojure-collections/)
+- [3 Functional Tools: Map, Filter, and Reduce](https://purelyfunctional.tv/courses/3-functional-tools/)
+- [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
 ## Tests
 
