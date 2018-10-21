@@ -19,6 +19,8 @@
 - [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 - [Cheatsheets and information for Clojure/JVM and ClojureScript](https://github.com/jafingerhut/clojure-cheatsheets)
 - [Benchmark programs in Clojure](https://github.com/jafingerhut/clojure-benchmarks)
+- [Comparators Guide](https://clojure.org/guides/comparators)
+- [Sort by](https://github.com/jafingerhut/thalia/blob/master/doc/project-docs/clojure.core-1.5.1/clojure.core/sort-by.md)
 
 ## Tests
 
