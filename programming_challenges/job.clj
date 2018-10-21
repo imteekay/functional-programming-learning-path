@@ -15,23 +15,11 @@
     :secondary_skillset ["bills-questions"]}])
 ;; -- end of jobs and agents definition --
 
-(def urgent-enum {true 0 false 1})
-
-(defn job-urgent-to-int
-  [job]
-  (get urgent-enum (:urgent job)))
-
-(defn update-urgent
-  [job]
-  (assoc job :urgent (job-urgent-to-int job)))
-
-(defn new-jobs
-  []
-  (map update-urgent jobs))
-
 (defn sorted-jobs
-  []
-  (sort-by :urgent (new-jobs)))
+  [jobs]
+  (sort-by (complement :urgent) jobs))
+
+(sorted-jobs jobs)
 
 ;; filtering by skillsets
 
