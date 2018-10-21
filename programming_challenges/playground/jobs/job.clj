@@ -15,14 +15,15 @@
     :secondary_skillset ["bills-questions"]}])
 ;; -- end of jobs and agents definition --
 
+;; -- sorting by urgency --
 (defn sorted-jobs
   [jobs]
   (sort-by (complement :urgent) jobs))
 
 (sorted-jobs jobs)
+;; -- end of sorting by urgency --
 
-;; filtering by skillsets
-
+;; -- filtering by skillsets --
 (def first-job (first jobs))
 (def second-job (second jobs))
 
@@ -35,9 +36,46 @@
 (defn filter-by-skillset
   [current-job agents]
   (filter #(by-skillset current-job %) agents))
+;; -- end of filtering by skillsets --
 
 ;; -- examples of function use --
 (filter-by-skillset first-job agents)
 (filter-by-skillset second-job agents)
 (filter-by-skillset second-job (conj agents {:id "123" :name "Mr. Nothing" :primary_skillset ["nothing-other"] :secondary_skillset ["nothing"]}))
 ;; -- end of examples of function use --
+
+;; -- sorting by job type --
+(defn find-agent-by-id
+  [id]
+  (first
+    (filter
+      (fn [agent] (= id (:id agent)))
+      agents)))
+
+(defn agent-has-job-type-as-skillset?
+  [job-type agent]
+  (if (some #{job-type} (:primary_skillset agent))
+    0
+    1))
+
+(defn has-skillset-and-id-pair
+  [job-type agent]
+  [(agent-has-job-type-as-skillset? job-type agent)
+   (:id agent)])
+
+(defn build-agent-by-id
+  [agent-id]
+  {:id agent-id
+   :name (:name (find-agent-by-id agent-id))
+   :primary_skillset (:primary_skillset (find-agent-by-id agent-id))
+   :secondary_skillset (:secondary_skillset (find-agent-by-id agent-id))})
+
+(defn rebuild-agent
+  [agent]
+  (let [agent-id (second agent)]
+    (build-agent-by-id agent-id)))
+
+(->> agents
+     (map (partial has-skillset-and-id-pair (:type second-job)))
+     (sort-by first)
+     (map rebuild-agent))
