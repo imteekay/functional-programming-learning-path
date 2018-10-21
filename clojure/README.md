@@ -28,6 +28,7 @@
 - [deftest](https://clojuredocs.org/clojure.test/deftest)
 - [Unit Testing in Functional Programming](https://lispcast.com/unit-testing-in-functional-languages/)
 - [Clojure.test Cheatsheet](https://github.com/LeandroTk/learning-functional/blob/master/clojure/tests/clojure.test-cheatsheet.pdf)
+- [How we test at Nubank](https://www.youtube.com/watch?v=X_PXoiOIdMs&ab_channel=ClojureDays)
 
 ## Webapps
 
