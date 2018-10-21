@@ -13,6 +13,8 @@
 - [The Ultimate Guide to Clojure Collections](https://purelyfunctional.tv/guide/clojure-collections/)
 - [3 Functional Tools: Map, Filter, and Reduce](https://purelyfunctional.tv/courses/3-functional-tools/)
 - [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+- [Cheatsheets and information for Clojure/JVM and ClojureScript](https://github.com/jafingerhut/clojure-cheatsheets)
+- [Benchmark programs in Clojure](https://github.com/jafingerhut/clojure-benchmarks)
 
 ## Tests
 
