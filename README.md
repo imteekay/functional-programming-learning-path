@@ -25,6 +25,7 @@
 - [The Benefits of Pure Functions](https://alvinalexander.com/scala/fp-book/benefits-of-pure-functions)
 - [Pure Functions](https://www.sitepoint.com/functional-programming-pure-functions/)
 - [Immutable data](https://www.sitepoint.com/functional-programming-ruby-value-objects/)
+- [Functional Koans](https://github.com/relevance/functional-koans)
 
 ## Declarative Programming
 
