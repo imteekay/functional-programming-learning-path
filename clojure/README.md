@@ -12,6 +12,7 @@
 - [Clojure by example](https://kimh.github.io/clojure-by-example)
 - [The Ultimate Guide to Clojure Collections](https://purelyfunctional.tv/guide/clojure-collections/)
 - [3 Functional Tools: Map, Filter, and Reduce](https://purelyfunctional.tv/courses/3-functional-tools/)
+- [Clojure e simplicidade](https://mauricioszabo.wordpress.com/2016/04/07/clojure-e-simplicidade/)
 
 ## Clojure API
 

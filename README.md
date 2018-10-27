@@ -4,6 +4,7 @@
 
 - [Foundation](#foundation)
 - [Declarative Programming](#declarative-programming)
+- [Books](#books)
 - [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
 - [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
 - [Ruby](https://github.com/LeandroTk/learning-functional/tree/master/ruby)
@@ -26,6 +27,12 @@
 - [Pure Functions](https://www.sitepoint.com/functional-programming-pure-functions/)
 - [Immutable data](https://www.sitepoint.com/functional-programming-ruby-value-objects/)
 - [Functional Koans](https://github.com/relevance/functional-koans)
+- [Programação funcional, imutabilidade, e previsibilidade](https://mauricioszabo.wordpress.com/2016/03/22/programacao-funcional-imutabilidade-e-previsibilidade/)
+- [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+
+## Books
+
+- [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)
 
 ## Declarative Programming
 
