@@ -46,6 +46,7 @@
 ## Better Software
 
 - [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
+- [Readable Clojure](http://tonsky.me/blog/readable-clojure/)
 
 ## Challenges
 
