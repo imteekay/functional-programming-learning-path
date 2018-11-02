@@ -30,6 +30,7 @@
 - [Programação funcional, imutabilidade, e previsibilidade](https://mauricioszabo.wordpress.com/2016/03/22/programacao-funcional-imutabilidade-e-previsibilidade/)
 - [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 - [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+- [Software Composition](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 
 ## Books
 
