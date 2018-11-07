@@ -30,8 +30,8 @@
 (defn by-skillset
   [job agent]
   (or
-    (some #(= (:type job) %) (:primary_skillset agent))
-    (some #(= (:type job) %) (:secondary_skillset agent))))
+   (some #(= (:type job) %) (:primary_skillset agent))
+   (some #(= (:type job) %) (:secondary_skillset agent))))
 
 (defn filter-by-skillset
   [current-job agents]
@@ -58,10 +58,9 @@
 
 (defn find-agent-by-id
   [id agents]
-  (first
-    (filter
-      (fn [agent] (= id (:id agent)))
-      agents)))
+  (->> agents
+       (filter (fn [agent] (= id (:id agent))))
+       (first)))
 
 (defn build-agent-by-id
   [agent-id agents]
@@ -84,7 +83,7 @@
 
 ;; ----- Testing sorted agents -----
 (loop
-  [agents agents jobs jobs]
+ [agents agents jobs jobs]
   (when (not-empty jobs)
     (println (str "----- " (:type (first jobs)) " -----"))
     (pprint (sorted-agents agents (first jobs)))
