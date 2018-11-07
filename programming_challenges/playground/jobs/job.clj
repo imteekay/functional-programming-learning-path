@@ -34,8 +34,8 @@
    (some #(= (:type job) %) (:secondary_skillset agent))))
 
 (defn filter-by-skillset
-  [current-job agents]
-  (filter #(by-skillset current-job %) agents))
+  [job agents]
+  (filter #(by-skillset job %) agents))
 ;; -- end of filtering by skillsets --
 
 ;; -- examples of function use --
@@ -45,41 +45,29 @@
 ;; -- end of examples of function use --
 
 ;; -- sorting by job type --
-(defn agent-has-job-type-as-skillset?
+(defn agent-has-job-type-as-primary-skillset?
   [job-type agent]
   (if (some #{job-type} (:primary_skillset agent))
     0
     1))
 
-(defn has-skillset-and-id-pair
+(defn add-has-primary-skillset-key
   [job-type agent]
-  [(agent-has-job-type-as-skillset? job-type agent)
-   (:id agent)])
+  (assoc
+   agent
+   :has-primary-skillset
+   (agent-has-job-type-as-primary-skillset? job-type agent)))
 
-(defn find-agent-by-id
-  [id agents]
-  (->> agents
-       (filter (fn [agent] (= id (:id agent))))
-       (first)))
-
-(defn build-agent-by-id
-  [agent-id agents]
-  {:id agent-id
-   :name (:name (find-agent-by-id agent-id agents))
-   :primary_skillset (:primary_skillset (find-agent-by-id agent-id agents))
-   :secondary_skillset (:secondary_skillset (find-agent-by-id agent-id agents))})
-
-(defn rebuild-agent
-  [agent agents]
-  (let [agent-id (second agent)]
-    (build-agent-by-id agent-id agents)))
+(defn remove-has-primary-skillset-key
+  [agent]
+  (dissoc agent :has-primary-skillset))
 
 (defn sorted-agents
   [agents job]
   (->> agents
-       (map (partial has-skillset-and-id-pair (:type job)))
-       (sort-by first)
-       (map #(rebuild-agent % agents))))
+       (map (partial add-has-primary-skillset-key (:type job)))
+       (sort-by :has-primary-skillset)
+       (map remove-has-primary-skillset-key)))
 
 ;; ----- Testing sorted agents -----
 (defn testing []
