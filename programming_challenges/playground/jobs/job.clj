@@ -51,23 +51,23 @@
     0
     1))
 
-(defn add-has-primary-skillset-key
+(defn add-contains-primary-skillset
   [job-type agent]
   (assoc
    agent
-   :has-primary-skillset
+   :contains-primary-skillset?
    (agent-has-job-type-as-primary-skillset? job-type agent)))
 
-(defn remove-has-primary-skillset-key
+(defn remove-contains-primary-skillset
   [agent]
-  (dissoc agent :has-primary-skillset))
+  (dissoc agent :contains-primary-skillset?))
 
 (defn sorted-agents
   [agents job]
   (->> agents
-       (map (partial add-has-primary-skillset-key (:type job)))
-       (sort-by :has-primary-skillset)
-       (map remove-has-primary-skillset-key)))
+       (map (partial add-contains-primary-skillset (:type job)))
+       (sort-by :contains-primary-skillset?)
+       (map remove-contains-primary-skillset)))
 
 ;; ----- Testing sorted agents -----
 (defn testing []
