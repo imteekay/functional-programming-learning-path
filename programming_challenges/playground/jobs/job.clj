@@ -35,7 +35,7 @@
 
 (defn filter-by-skillset
   [job agents]
-  (filter #(by-skillset job %) agents))
+  (filter (partial by-skillset job) agents))
 ;; -- end of filtering by skillsets --
 
 ;; -- examples of function use --
