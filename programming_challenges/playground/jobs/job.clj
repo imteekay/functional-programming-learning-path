@@ -34,22 +34,20 @@
    (some #(= (:type job) %) (:secondary_skillset agent))))
 
 (defn filter-by-skillset
-  [job agents]
+  [agents job]
   (filter (partial by-skillset job) agents))
 ;; -- end of filtering by skillsets --
 
 ;; -- examples of function use --
-(filter-by-skillset first-job agents)
-(filter-by-skillset second-job agents)
-(filter-by-skillset second-job (conj agents {:id "123" :name "Mr. Nothing" :primary_skillset ["nothing-other"] :secondary_skillset ["nothing"]}))
+(filter-by-skillset agents first-job)
+(filter-by-skillset agents second-job)
+(filter-by-skillset (conj agents {:id "123" :name "Mr. Nothing" :primary_skillset ["nothing-other"] :secondary_skillset ["nothing"]}) second-job)
 ;; -- end of examples of function use --
 
 ;; -- sorting by job type --
 (defn agent-has-job-type-as-primary-skillset?
   [job-type agent]
-  (if (some #{job-type} (:primary_skillset agent))
-    0
-    1))
+  (if (some #{job-type} (:primary_skillset agent)) 0 1))
 
 (defn add-contains-primary-skillset
   [job-type agent]
@@ -70,14 +68,19 @@
        (map remove-contains-primary-skillset)))
 
 ;; ----- Testing sorted agents -----
-(defn testing []
+(defn testing [agents jobs]
   (loop
    [agents agents jobs jobs]
     (when (not-empty jobs)
       (println (str "----- " (:type (first jobs)) " -----"))
-      (pprint (sorted-agents agents (first jobs)))
+
+      (pprint
+       (-> agents
+           (filter-by-skillset (first jobs))
+           (sorted-agents (first jobs))))
+
       (println)
       (recur agents (rest jobs)))))
 
-(testing)
+(testing agents jobs)
 ;; ----- end of Testing sorted agents -----
