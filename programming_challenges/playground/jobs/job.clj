@@ -75,18 +75,21 @@
     (build-agent-by-id agent-id agents)))
 
 (defn sorted-agents
-  [agents current-job]
+  [agents job]
   (->> agents
-       (map (partial has-skillset-and-id-pair (:type current-job)))
+       (map (partial has-skillset-and-id-pair (:type job)))
        (sort-by first)
        (map #(rebuild-agent % agents))))
 
 ;; ----- Testing sorted agents -----
-(loop
- [agents agents jobs jobs]
-  (when (not-empty jobs)
-    (println (str "----- " (:type (first jobs)) " -----"))
-    (pprint (sorted-agents agents (first jobs)))
-    (println)
-    (recur agents (rest jobs))))
+(defn testing []
+  (loop
+   [agents agents jobs jobs]
+    (when (not-empty jobs)
+      (println (str "----- " (:type (first jobs)) " -----"))
+      (pprint (sorted-agents agents (first jobs)))
+      (println)
+      (recur agents (rest jobs)))))
+
+(testing)
 ;; ----- end of Testing sorted agents -----
