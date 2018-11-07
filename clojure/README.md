@@ -14,6 +14,7 @@
 - [3 Functional Tools: Map, Filter, and Reduce](https://purelyfunctional.tv/courses/3-functional-tools/)
 - [Clojure e simplicidade](https://mauricioszabo.wordpress.com/2016/04/07/clojure-e-simplicidade/)
 - [Criação de variáveis e contextos léxicos em Clojure](https://blog.bltavares.com/2015/01/28/criacao-de-variaveis-e-contextos-lexicos-em-clojure/)
+- [Stuart Sierra blog](https://stuartsierra.com/writing)
 
 ## Clojure API
 
