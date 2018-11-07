@@ -16,11 +16,11 @@
 ;; -- end of jobs and agents definition --
 
 ;; -- sorting by urgency --
-(defn sorted-jobs
+(defn prioritize
   [jobs]
   (sort-by (complement :urgent) jobs))
 
-(sorted-jobs jobs)
+(prioritize jobs)
 ;; -- end of sorting by urgency --
 
 ;; -- filtering by skillsets --
@@ -70,7 +70,7 @@
 ;; ----- Testing sorted agents -----
 (defn testing [agents jobs]
   (loop
-   [agents agents jobs jobs]
+   [agents agents jobs (prioritize jobs)]
     (when (not-empty jobs)
       (println (str "----- " (:type (first jobs)) " -----"))
 
