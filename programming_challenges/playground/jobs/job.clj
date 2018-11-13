@@ -60,27 +60,78 @@
   [agent]
   (dissoc agent :contains-primary-skillset?))
 
-(defn sorted-agents
+(defn sort-agents-by-primary-skillset
   [agents job]
   (->> agents
        (map (partial add-contains-primary-skillset (:type job)))
        (sort-by :contains-primary-skillset?)
        (map remove-contains-primary-skillset)))
 
+(defn agents-to-be-assigned
+  [agents job]
+  (-> agents
+      (filter-by-skillset job)
+      (sort-agents-by-primary-skillset job)))
+
+(defn agents-ids
+  [assigned-jobs]
+  (map
+   #(get-in % [:job_assigned :agent_id])
+   assigned-jobs))
+
+(defn find-agent-id?
+  [assigned-jobs agent]
+  (some
+   #(= (:id agent) %)
+   (agents-ids assigned-jobs)))
+
+(defn assigned?
+  [assigned-jobs agent]
+  (find-agent-id? assigned-jobs agent))
+
+(defn not-assigned?
+  [assigned-jobs agent]
+  ((complement assigned?) assigned-jobs agent))
+
+(defn make-agent-job-assignment
+  [job agent]
+  {:job_assigned
+   {:job_id (:id job)
+    :agent_id (:id agent)}})
+
+(defn assignments
+  [assigned-jobs job new-assignment]
+  (if (nil? new-assignment)
+    assigned-jobs
+    (conj
+     assigned-jobs
+     (make-agent-job-assignment
+      job
+      new-assignment))))
+
+(defn assign-agent
+  [agents job assigned-jobs]
+  (->> (agents-to-be-assigned agents job)
+       (filter (partial not-assigned? assigned-jobs))
+       (first)
+       (assignments assigned-jobs job)))
+
 ;; ----- Testing sorted agents -----
-(defn testing [agents jobs]
+(defn testing [agents jobs assigned-jobs]
   (loop
-   [agents agents jobs (prioritize jobs)]
-    (when (not-empty jobs)
-      (println (str "----- " (:type (first jobs)) " -----"))
+   [agents         agents
+    jobs           (prioritize jobs)
+    assigned-jobs  assigned-jobs]
 
-      (pprint
-       (-> agents
-           (filter-by-skillset (first jobs))
-           (sorted-agents (first jobs))))
+    (if (not-empty jobs)
+      (do
+        (println (str "----- " (:type (first jobs)) " -----"))
+        (recur
+         agents
+         (rest jobs)
+         (assign-agent agents (first jobs) assigned-jobs)))
 
-      (println)
-      (recur agents (rest jobs)))))
+      assigned-jobs)))
 
-(testing agents jobs)
+(pprint (testing agents jobs []))
 ;; ----- end of Testing sorted agents -----
