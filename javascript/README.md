@@ -5,3 +5,5 @@
 - [Two Years of Functional Programming in JavaScript: Lessons Learned](https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726)
 - [Javascript Funcional](https://www.youtube.com/watch?v=k07DBTYj9w8&ab_channel=iMasters)
 - [Pragmatic Function Javascript online book](https://haskellcamargo.gitbooks.io/pragmatic-functional-javascript/)
+- [Flavio Corpa's collection of FP's JavaScript functions](https://github.com/kutyel/functional-programming)
+- [JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
