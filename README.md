@@ -4,9 +4,11 @@
 
 - [Foundation](#foundation)
 - [Declarative Programming](#declarative-programming)
+- [Talks](#talks)
 - [Books](#books)
 - [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
 - [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
+- [Python](https://github.com/LeandroTk/learning-functional/tree/master/python)
 - [Ruby](https://github.com/LeandroTk/learning-functional/tree/master/ruby)
 - [Programming Challenges](https://github.com/LeandroTk/learning-functional/tree/master/programming_challenges)
 
@@ -31,6 +33,13 @@
 - [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 - [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 - [Software Composition](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+- [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+- [Functional Education](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
+
+## Talks
+
+- [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY&ab_channel=IvanPlyusnin)
+- [Why Functional Programming Matters by John Hughes](https://www.youtube.com/watch?v=XrNdvWqxBvA&ab_channel=ConfEngine)
 
 ## Books
 
