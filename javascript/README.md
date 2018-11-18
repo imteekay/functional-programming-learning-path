@@ -7,3 +7,7 @@
 - [Pragmatic Function Javascript online book](https://haskellcamargo.gitbooks.io/pragmatic-functional-javascript/)
 - [Flavio Corpa's collection of FP's JavaScript functions](https://github.com/kutyel/functional-programming)
 - [JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+
+## Courses
+
+- [Functional Programming Patterns With RamdaJS!](https://www.educative.io/collection/5070627052453888/5738600293466112)
