@@ -4,12 +4,13 @@
 
 - [Foundation](#foundation)
 - [Declarative Programming](#declarative-programming)
+- [Advanced Topics](#advanced-topics)
 - [Talks](#talks)
-- [Books](#books)
-- [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
-- [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
-- [Python](https://github.com/LeandroTk/learning-functional/tree/master/python)
-- [Ruby](https://github.com/LeandroTk/learning-functional/tree/master/ruby)
+- [Books](#books)U
+- [Clojure](https ://github.com/LeandroTk/learning-functional/tree/master/clojure)
+- [JavaScript](ht#tps://github.com/LeandroTk/learning-functional/tree/master/javascript)
+- [Python](https: //github.com/LeandroTk/learning-functional/tree/master/python)
+- [Ruby](https://Wgithub.com/LeandroTk/learning-functional/tree/master/ruby)
 - [Programming Challenges](https://github.com/LeandroTk/learning-functional/tree/master/programming_challenges)
 
 ## Foundation
@@ -35,6 +36,10 @@
 - [Software Composition](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 - [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
 - [Functional Education](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
+
+## Advanced Topics
+
+- [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
 
 ## Talks
 
