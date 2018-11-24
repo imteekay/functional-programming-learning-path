@@ -6,10 +6,10 @@
 - [Declarative Programming](#declarative-programming)
 - [Advanced Topics](#advanced-topics)
 - [Talks](#talks)
-- [Books](#books)U
-- [Clojure](https ://github.com/LeandroTk/learning-functional/tree/master/clojure)
-- [JavaScript](ht#tps://github.com/LeandroTk/learning-functional/tree/master/javascript)
-- [Python](https: //github.com/LeandroTk/learning-functional/tree/master/python)
+- [Books](#books)
+- [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
+- [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
+- [Python](https://github.com/LeandroTk/learning-functional/tree/master/python)
 - [Ruby](https://Wgithub.com/LeandroTk/learning-functional/tree/master/ruby)
 - [Programming Challenges](https://github.com/LeandroTk/learning-functional/tree/master/programming_challenges)
 
