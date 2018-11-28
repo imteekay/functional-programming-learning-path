@@ -7,6 +7,14 @@
 - [Pragmatic Function Javascript online book](https://haskellcamargo.gitbooks.io/pragmatic-functional-javascript/)
 - [Flavio Corpa's collection of FP's JavaScript functions](https://github.com/kutyel/functional-programming)
 - [JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+- [Gist: Usages for ES6 destructuring](https://gist.github.com/mikaelbr/9900818)
+- [Functional JavaScript Mini Book by Jichao Ouyang](https://jcouyang.gitbooks.io/functional-javascript/content/en/index.html)
+- [Functional Programming in JavaScript series by mpj](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- [Pure functions in Javascript](http://nicoespeon.com/en/2015/01/pure-functions-javascript/)
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
+- [Functors by mpj](https://www.youtube.com/watch?v=DisD9ftUyCk)
+- [Functors in Javascript](http://functionaljavascript.blogspot.com.br/2013/07/functors.html)
+- [Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
 ## Courses
 
