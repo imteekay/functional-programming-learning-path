@@ -7,6 +7,7 @@
 - [Advanced Topics](#advanced-topics)
 - [Talks](#talks)
 - [Books](#books)
+- [Blogs](#blogs)
 - [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
 - [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
 - [Python](https://github.com/LeandroTk/learning-functional/tree/master/python)
@@ -56,3 +57,7 @@
 - [Declarative vs Imperative Programming by Ian Mundy](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)
 - [Imperative vs Declarative Programming by Tyler McGinnis](https://tylermcginnis.com/imperative-vs-declarative-programming/)
 - [Imperative versus declarative code… what’s the difference?](https://medium.com/front-end-hacking/imperative-versus-declarative-code-whats-the-difference-adc7dd6c8380)
+
+## Blogs
+
+- [Patterns in Functional Programming](https://patternsinfp.wordpress.com/)

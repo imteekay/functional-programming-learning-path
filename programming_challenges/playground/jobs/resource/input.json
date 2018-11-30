@@ -3,7 +3,9 @@
     "new_agent": {
       "id": "8ab86c18-3fae-4804-bfd9-c3d6e8f66260",
       "name": "BoJack Horseman",
-      "primary_skillset": ["bills-questions"],
+      "primary_skillset": [
+        "bills-questions"
+      ],
       "secondary_skillset": []
     }
   },
@@ -18,8 +20,12 @@
     "new_agent": {
       "id": "ed0e23ef-6c2b-430c-9b90-cd4f1ff74c88",
       "name": "Mr. Peanut Butter",
-      "primary_skillset": ["rewards-question"],
-      "secondary_skillset": ["bills-questions"]
+      "primary_skillset": [
+        "rewards-question"
+      ],
+      "secondary_skillset": [
+        "bills-questions"
+      ]
     }
   },
   {
