@@ -15,6 +15,9 @@
 - [Functors by mpj](https://www.youtube.com/watch?v=DisD9ftUyCk)
 - [Functors in Javascript](http://functionaljavascript.blogspot.com.br/2013/07/functors.html)
 - [Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+- [Variable length currying in JavaScript](https://medium.com/@Charles_Stover/variable-length-currying-in-javascript-7f7bb7bdad8b)
+
+- [Adding pipelines to JavaScript](https://blog.logrocket.com/adding-pipelines-to-javascript-f79ae7311574)
 
 ## Courses
 

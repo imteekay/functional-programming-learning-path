@@ -35,12 +35,21 @@
 - [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 - [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 - [Software Composition](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
-- [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
 - [Functional Education](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
+- [What is functional?](https://dev.to/drbearhands/functional-fundamentals-what-is-functional-l66)
+- [Types as propositions, programs as proofs](https://dev.to/drbearhands/functional-fundamentals-types-as-propositions-programs-as-proofs-56gh)
+- [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+- [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
+- [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
+- [So You Want to be a Functional Programmer (Part 4)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
+- [So You Want to be a Functional Programmer (Part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
+- [So You Want to be a Functional Programmer (Part 6)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403)
 
 ## Advanced Topics
 
 - [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
+- [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+- [Functors, Monads and better functions](https://dev.to/drbearhands/functors-monads-and-better-functions-26f3)
 
 ## Talks
 
