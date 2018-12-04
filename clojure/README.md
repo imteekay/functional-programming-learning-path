@@ -33,6 +33,7 @@
 - [Clojure.test Cheatsheet](https://github.com/LeandroTk/learning-functional/blob/master/clojure/tests/clojure.test-cheatsheet.pdf)
 - [How we test at Nubank](https://www.youtube.com/watch?v=X_PXoiOIdMs&ab_channel=ClojureDays)
 - [Testing in Clojure](https://lambdaisland.com/blog/2018-11-02-test-wars-new-hope)
+- [Unit Testing by Daniel Gregoire in Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook/blob/master/10_testing/10-01_unit-testing.asciidoc)
 
 ## Webapps
 

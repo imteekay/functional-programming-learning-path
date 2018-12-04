@@ -3,10 +3,11 @@
 ## Table of Content
 
 - [Foundation](#foundation)
-- [Declarative Programming](#declarative-programming)
+- [Why Functional](#why-functional)
 - [Advanced Topics](#advanced-topics)
 - [Talks](#talks)
 - [Books](#books)
+- [Declarative Programming](#declarative-programming)
 - [Blogs](#blogs)
 - [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
 - [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
@@ -20,7 +21,6 @@
 - [Introduction to Funcional Programming - edX](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 - [Como programar funcional?](https://www.youtube.com/watch?v=jIYfTKYXJr8)
 - [Demystifying functional programming](https://medium.com/building-nubank/demystifying-functional-programming-in-a-real-company-e954a2591504)
-- [Why shared mutable state is the root of all evil](http://henrikeichenhardt.blogspot.com/2013/06/why-shared-mutable-state-is-root-of-all.html)
 - [Programação Funcional para iniciantes](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
@@ -29,7 +29,6 @@
 - [Your functional journey](https://purelyfunctional.tv/guide/your-functional-journey/)
 - [The Benefits of Pure Functions](https://alvinalexander.com/scala/fp-book/benefits-of-pure-functions)
 - [Pure Functions](https://www.sitepoint.com/functional-programming-pure-functions/)
-- [Immutable data](https://www.sitepoint.com/functional-programming-ruby-value-objects/)
 - [Functional Koans](https://github.com/relevance/functional-koans)
 - [Programação funcional, imutabilidade, e previsibilidade](https://mauricioszabo.wordpress.com/2016/03/22/programacao-funcional-imutabilidade-e-previsibilidade/)
 - [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
@@ -44,12 +43,33 @@
 - [So You Want to be a Functional Programmer (Part 4)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
 - [So You Want to be a Functional Programmer (Part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
 - [So You Want to be a Functional Programmer (Part 6)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403)
+- [Friendly Functional Programming](https://functional.works-hub.com/learn/friendly-functional-programming-b3e93)
+
+### Immutability
+
+- [Immutability - something worth striving for](https://dev.to/rwoodnz/immutability---something-worth-striving-for-3ppp)
+- [Why shared mutable state is the root of all evil](http://henrikeichenhardt.blogspot.com/2013/06/why-shared-mutable-state-is-root-of-all.html)
+- [Immutable data](https://www.sitepoint.com/functional-programming-ruby-value-objects/)
+
+## Why Functional
+
+- [Why functional programming matters](https://hackernoon.com/why-functional-programming-matters-c647f56a7691)
+- [Why Functional Programming?](https://purelyfunctional.tv/article/why-functional-programming/)
+- [Advantages of Functional Programming](https://blog.codeship.com/advantages-of-functional-programming/)
+- [Pros and cons of functional programming](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)
+- [What are the benefits of functional programming?](https://stackoverflow.com/a/128128/3159162)
+- [Benefits of Functional Programming](https://alvinalexander.com/scala/fp-book/benefits-of-functional-programming)
+- [Benefits of Functional Programming beyond map/filter/reduce](https://www.youtube.com/watch?v=oaa4XiwEq1E&ab_channel=Jfokus)
+- [Benefits of Functional Programming by Example](https://medium.com/@nickmccurdy/benefits-of-functional-programming-by-example-76f1135b0b18)
 
 ## Advanced Topics
 
 - [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
-- [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
 - [Functors, Monads and better functions](https://dev.to/drbearhands/functors-monads-and-better-functions-26f3)
+
+- [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps/)
+- [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+- [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
 
 ## Talks
 
