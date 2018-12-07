@@ -9,6 +9,7 @@
 - [Books](#books)
 - [Declarative Programming](#declarative-programming)
 - [Blogs](#blogs)
+- [Podcasts](#podcasts)
 - [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
 - [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
 - [Python](https://github.com/LeandroTk/learning-functional/tree/master/python)
@@ -93,3 +94,10 @@
 ## Blogs
 
 - [Patterns in Functional Programming](https://patternsinfp.wordpress.com/)
+
+## Podcasts
+
+- [Programação Funcional com Erick Pintor e Bruno Tavares](http://tecnologicamentearretado.com.br/2014/12/31/programacao-funcional-com-erick-e-bruno/)
+- [Programação Funcional com Juliano alves](https://www.tecnoretorica.com.br/2013/04/programacao-funcional/)
+- [Programação Funcional - Inviavel Podcast](http://inviavelpodcast.com/10/)
+- [CapyCast #10 Linguagens Funcionais Com Marcelo Camargo e Derek Stavis](https://player.fm/series/capycast/capycast-10-linguagens-funcionais-com-marcelo-camargo-e-derek-stavis)
