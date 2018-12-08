@@ -23,7 +23,6 @@
 - [Como programar funcional?](https://www.youtube.com/watch?v=jIYfTKYXJr8)
 - [Demystifying functional programming](https://medium.com/building-nubank/demystifying-functional-programming-in-a-real-company-e954a2591504)
 - [Programação Funcional para iniciantes](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
-- [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [Functional Programming Study Plan](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/)
@@ -45,12 +44,14 @@
 - [So You Want to be a Functional Programmer (Part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
 - [So You Want to be a Functional Programmer (Part 6)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403)
 - [Friendly Functional Programming](https://functional.works-hub.com/learn/friendly-functional-programming-b3e93)
+- [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 
 ### Immutability
 
 - [Immutability - something worth striving for](https://dev.to/rwoodnz/immutability---something-worth-striving-for-3ppp)
 - [Why shared mutable state is the root of all evil](http://henrikeichenhardt.blogspot.com/2013/06/why-shared-mutable-state-is-root-of-all.html)
 - [Immutable data](https://www.sitepoint.com/functional-programming-ruby-value-objects/)
+- [Thoughts on Immutability, CI/CD, FP](https://www.infoq.com/podcasts/Vitor-Olivier)
 
 ## Why Functional
 
@@ -62,6 +63,7 @@
 - [Benefits of Functional Programming](https://alvinalexander.com/scala/fp-book/benefits-of-functional-programming)
 - [Benefits of Functional Programming beyond map/filter/reduce](https://www.youtube.com/watch?v=oaa4XiwEq1E&ab_channel=Jfokus)
 - [Benefits of Functional Programming by Example](https://medium.com/@nickmccurdy/benefits-of-functional-programming-by-example-76f1135b0b18)
+- [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 
 ## Advanced Topics
 
