@@ -46,7 +46,7 @@
 - [Friendly Functional Programming](https://functional.works-hub.com/learn/friendly-functional-programming-b3e93)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 
-### Immutability
+## Immutability
 
 - [Immutability - something worth striving for](https://dev.to/rwoodnz/immutability---something-worth-striving-for-3ppp)
 - [Why shared mutable state is the root of all evil](http://henrikeichenhardt.blogspot.com/2013/06/why-shared-mutable-state-is-root-of-all.html)
