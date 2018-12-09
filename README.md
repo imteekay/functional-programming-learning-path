@@ -69,11 +69,9 @@
 
 - [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
 - [Functors, Monads and better functions](https://dev.to/drbearhands/functors-monads-and-better-functions-26f3)
-
 - [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps/)
 - [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
 - [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
-
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp)
 - [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-1)
 
