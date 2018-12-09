@@ -12,12 +12,15 @@
 - [Functional Programming in JavaScript series by mpj](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - [Pure functions in Javascript](http://nicoespeon.com/en/2015/01/pure-functions-javascript/)
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
-- [Functors by mpj](https://www.youtube.com/watch?v=DisD9ftUyCk)
-- [Functors in Javascript](http://functionaljavascript.blogspot.com.br/2013/07/functors.html)
 - [Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 - [Variable length currying in JavaScript](https://medium.com/@Charles_Stover/variable-length-currying-in-javascript-7f7bb7bdad8b)
+- [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs&ab_channel=CodingTech)
+
+## Advanced
 
 - [Adding pipelines to JavaScript](https://blog.logrocket.com/adding-pipelines-to-javascript-f79ae7311574)
+- [Functors by mpj](https://www.youtube.com/watch?v=DisD9ftUyCk)
+- [Functors in Javascript](http://functionaljavascript.blogspot.com.br/2013/07/functors.html)
 
 ## Courses
 
