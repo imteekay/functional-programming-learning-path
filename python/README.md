@@ -8,6 +8,7 @@
 - [A practical introduction to functional programming in Python](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 - [Official Functional Programming HOWTO](https://docs.python.org/3/howto/functional.html)
 - [Immutable data structures in Python](https://www.theguardian.com/info/developer-blog/2014/oct/21/immutable-data-structures-in-python)
+- [Best Practices for Using Functional Programming in Python](https://kite.com/blog/python/functional-programming)
 
 ## Talks
 
