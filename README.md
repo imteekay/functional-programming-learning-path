@@ -10,6 +10,7 @@
 - [Declarative Programming](#declarative-programming)
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
+- [Courses](#courses)
 - [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
 - [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
 - [Python](https://github.com/LeandroTk/learning-functional/tree/master/python)
@@ -74,6 +75,7 @@
 - [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp)
 - [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-1)
+- [Functional Programming, Abstraction, and Naming Things](http://www.stephendiehl.com/posts/abstraction.html)
 
 ## Talks
 
@@ -101,3 +103,8 @@
 - [Programação Funcional com Juliano alves](https://www.tecnoretorica.com.br/2013/04/programacao-funcional/)
 - [Programação Funcional - Inviavel Podcast](http://inviavelpodcast.com/10/)
 - [CapyCast #10 Linguagens Funcionais Com Marcelo Camargo e Derek Stavis](https://player.fm/series/capycast/capycast-10-linguagens-funcionais-com-marcelo-camargo-e-derek-stavis)
+- [The Imposter's Handbook: Functional Programming and Databases](https://www.orbit.fm/bookbytes/17)
+
+## Courses
+
+- [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
