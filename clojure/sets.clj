@@ -1,6 +1,6 @@
 ; unique values
 #{"TK" 26 :software-engineer}
-(hash-set 1 2 3 4 4 3)
+(hash-set 1 2 3 4 4 3) ; #{1 2 3 4}
 (set [1 2 3 4 1])
 
 ; do not add a value that already exists in the set
