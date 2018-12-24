@@ -59,6 +59,15 @@
 - [Exercism](https://exercism.io/my/tracks/clojure)
 - [Hacker Rank Functional Path](https://hackerrank.com/domains/fp)
 
+## Books
+
+- [Clojure Applied](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/clojure-applied.pdf)
+- [Clojure data structures and algorithms cookbook](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/clojure-data-structures-and-algorithms-cookbook.pdf)
+- [Clojure in action](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/clojure-in-action.pdf)
+- [Mastering Clojure Macros](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/mastering-clojure%20-macros-pragmatic.pdf)
+- [Practical Clojure](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/practical-clojure.pdf)
+- [The joy of Clojure](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/the-joy-of-clojure.pdf)
+
 ## Repositories
 
 - [Purely Functional Data Structures](https://github.com/leonardoborges/purely-functional-data-structures)
