@@ -76,6 +76,7 @@
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp)
 - [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-1)
 - [Functional Programming, Abstraction, and Naming Things](http://www.stephendiehl.com/posts/abstraction.html)
+- [SOLID: the next step is Functional](http://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
 
 ## Talks
 
