@@ -86,6 +86,8 @@
 ## Books
 
 - [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)
+- [Category Theory for Programmers](https://github.com/tk-learning-center/functional-programming-learning-path/blob/master/books/category-theory-for-programmers.pdf)
+- [Conceptual Mathematica](https://github.com/tk-learning-center/functional-programming-learning-path/blob/master/books/conceptual_mathematics.pdf)
 
 ## Declarative Programming
 
