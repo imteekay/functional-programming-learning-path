@@ -11,6 +11,7 @@
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
 - [Courses](#courses)
+- [Community](#community)
 - [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
 - [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
 - [Python](https://github.com/LeandroTk/learning-functional/tree/master/python)
@@ -78,6 +79,11 @@
 - [Functional Programming, Abstraction, and Naming Things](http://www.stephendiehl.com/posts/abstraction.html)
 - [SOLID: the next step is Functional](http://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
 
+## Advanced Topics: Category Theory
+
+- [From design patterns to category theory by Mark Seemann](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
+
+
 ## Talks
 
 - [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY&ab_channel=IvanPlyusnin)
@@ -111,3 +117,15 @@
 ## Courses
 
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+
+## Community
+
+- Richard Bird
+- Philip Wadler
+- Olivier Danvy
+- Andrzej Filinski
+- Daniel P. Friedman
+- Matthias Felleisen
+- J. Michael Ashley
+- R. Kent Dybvig
+- Erik Hilsdale
