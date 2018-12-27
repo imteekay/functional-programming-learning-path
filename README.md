@@ -34,6 +34,28 @@
 - Destructure values to access their components
 - Pass lambdas to Higher Order Functions
 
+-----------------
+
+## Advanced Beginner
+
+### Concepts
+- Algebraic Data Types
+- Pattern Matching
+- Parametric Polymorphism
+- General Recursion
+- Type Classes, Instances, and Laws
+- Lower Order Abstractions (Equal, Semigroup, Monoid)
+- Referential Transparency & Totality
+- Partial Application, Currying & Point Free style
+
+### Skills
+- Process and transform data structures using recursion
+- Model a business domain with ADTs
+- Write functions that take and return functions
+- Reliably identify and isolate pure code from impure code
+
+-----------------
+
 ## Foundation
 
 - [Functional Programming Learning Path](https://purelyfunctional.tv/learning-paths/functional-programming/)
