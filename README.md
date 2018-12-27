@@ -20,6 +20,20 @@
 - [Ruby](https://Wgithub.com/LeandroTk/learning-functional/tree/master/ruby)
 - [Programming Challenges](https://github.com/LeandroTk/learning-functional/tree/master/programming_challenges)
 
+## Beginner
+
+### Concepts
+- Immutable Data
+- Higher Order Functions
+- Constructing and Destructuring
+- Function Composition
+- Function as First Class
+
+### Skills
+- Apply Higher Order Functions as filter, map, and reduce to immutable data structures
+- Destructure values to access their components
+- Pass lambdas to Higher Order Functions
+
 ## Foundation
 
 - [Functional Programming Learning Path](https://purelyfunctional.tv/learning-paths/functional-programming/)
