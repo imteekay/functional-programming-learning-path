@@ -48,6 +48,10 @@
 - [Friendly Functional Programming](https://functional.works-hub.com/learn/friendly-functional-programming-b3e93)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 
+## Higher Order Functions
+
+- [Getting a handle on Reduce](https://adambard.com/blog/getting-a-handle-on-reduce/)
+
 ## Immutability
 
 - [Immutability - something worth striving for](https://dev.to/rwoodnz/immutability---something-worth-striving-for-3ppp)

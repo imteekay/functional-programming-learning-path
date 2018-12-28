@@ -50,6 +50,7 @@
 
 - [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
 - [Readable Clojure](http://tonsky.me/blog/readable-clojure/)
+- [Validations with Schema](https://camdez.com/blog/2015/08/27/practical-data-coercion-with-prismatic-schema/)
 
 ## Challenges
 
