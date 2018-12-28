@@ -113,6 +113,7 @@
 - [Programação Funcional - Inviavel Podcast](http://inviavelpodcast.com/10/)
 - [CapyCast #10 Linguagens Funcionais Com Marcelo Camargo e Derek Stavis](https://player.fm/series/capycast/capycast-10-linguagens-funcionais-com-marcelo-camargo-e-derek-stavis)
 - [The Imposter's Handbook: Functional Programming and Databases](https://www.orbit.fm/bookbytes/17)
+- [Functional Programming Languages and the Pursuit of Laziness with Dr. Simon Peyton Jones](https://player.fm/series/microsoft-research-podcast-1910051/ep-056-rerun-functional-programming-languages-and-the-pursuit-of-laziness-with-dr-simon-peyton-jones)
 
 ## Courses
 
