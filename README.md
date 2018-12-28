@@ -105,6 +105,7 @@
 ## Blogs
 
 - [Patterns in Functional Programming](https://patternsinfp.wordpress.com/)
+- [Kevin Sookocheff - Functional Programming](https://sookocheff.com/tags/functional-programming/)
 
 ## Podcasts
 
