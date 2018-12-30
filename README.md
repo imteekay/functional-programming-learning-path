@@ -82,6 +82,7 @@
 - [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-1)
 - [Functional Programming, Abstraction, and Naming Things](http://www.stephendiehl.com/posts/abstraction.html)
 - [SOLID: the next step is Functional](http://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
+- [Functional Design Patterns](https://www.youtube.com/watch?reload=9&v=srQt1NAHYC0&ab_channel=NDCConferences)
 
 ## Advanced Topics: Category Theory
 
