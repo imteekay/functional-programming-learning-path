@@ -45,6 +45,7 @@
 - [Building a simple HTTP server in Clojure: Part II — Adding routes](https://medium.com/@divyum/building-a-simple-http-server-in-clojure-part-ii-adding-routes-3038a81b625f)
 - [Building a simple HTTP server in Clojure: Part III — Dockerizing Clojure Application](https://medium.com/@divyum/building-a-simple-http-server-in-clojure-part-iii-dockerizing-clojure-application-1f53a6a90af2)
 - [Clojure for OOP Folks: How to Design Clojure Programs](https://speakerdeck.com/stilkov/clojure-for-oop-folks-how-to-design-clojure-programs)
+- [Functional TicTacToe](https://www.youtube.com/watch?v=_eO7EsXO2XE)
 
 ## Better Software
 
