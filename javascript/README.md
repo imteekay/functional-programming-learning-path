@@ -1,6 +1,6 @@
 ## JavaScript Resources
 
-- [Professor Frisby's Mostly Adequate Guide to Functional Programming] (NEW)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](NEW)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming (OLD)](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [A repo. that demonstrates use of functional programming in javascript](https://github.com/divyanshu-rawat/Functional-Programming-JS)
 - [Entendendo Programação Funcional em JavaScript de uma vez](https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b)
