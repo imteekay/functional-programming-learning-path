@@ -33,6 +33,13 @@
 - [Functors by mpj](https://www.youtube.com/watch?v=DisD9ftUyCk)
 - [Functors in Javascript](http://functionaljavascript.blogspot.com.br/2013/07/functors.html)
 
+# With React
+
+- [An intro to Functional Programming in JavaScript and React](https://medium.com/@agm1984/an-overview-of-functional-programming-in-javascript-and-react-part-one-10d75b509e9e)
+- [Functional Programming in JavaScript and React (Part Two)](https://medium.com/@agm1984/functional-programming-in-javascript-and-react-part-two-521ea9f57d30)
+- [Mastering React Functional Components with Recompose](https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd6ac98834)
+- [Taste the principles of functional programming in React](https://codinglawyer.net/index.php/2018/01/31/taste-the-principles-of-functional-programming-in-react/)
+
 ## Courses
 
 - [Functional Programming Patterns With RamdaJS!](https://www.educative.io/collection/5070627052453888/5738600293466112)
