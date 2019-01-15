@@ -5,8 +5,10 @@ const arr = [1, 2, 3, 4, 5];
 // Building a sum function with reduce
 const sumReducer = (acc, value) => acc + value;
 
+log('Sum with Reduce');
 let total = arr.reduce(sumReducer, 0);
 log(total); // 15
+log();
 
 /* -------------------------------------- */
 
@@ -53,6 +55,7 @@ let evenValues = filter(isEven, arr);
 log('Filter with Reduce');
 log(moreThan3Value); // [4, 5]
 log(evenValues); // [2, 4]
+log();
 
 /* -------------------------------------- */
 
@@ -71,4 +74,21 @@ const h = (x) => x * 3;
 const composedFns = compose(f, g, h);
 let finalValue = composedFns(2);
 
+log('Compose with Reduce');
 log(finalValue); // 4
+log();
+
+/* -------------------------------------- */
+
+// Building a pipe function with reduce
+// API: pipe(fn1, fn2, fn3, ...)
+// fn1: function to be composed
+
+const pipe = (...fns) => x => fns.reduce((pipedFns, fn) => fn(pipedFns), x);
+
+const pipedFns = pipe(f, g, h);
+finalValue = pipedFns(1);
+
+log('Pipe with Reduce');
+log(finalValue); // 3
+log();
