@@ -53,3 +53,22 @@ let evenValues = filter(isEven, arr);
 log('Filter with Reduce');
 log(moreThan3Value); // [4, 5]
 log(evenValues); // [2, 4]
+
+/* -------------------------------------- */
+
+// Building a compose function with reduce
+// API: compose(fn1, fn2, fn3, ...)
+// fn1: function to be composed
+
+const compose = (...fns) => x => {
+  return fns.reduceRight((composedFns, fn) => fn(composedFns), x)
+};
+
+const f = (x) => x + 1;
+const g = (x) => x / 2;
+const h = (x) => x * 3;
+
+const composedFns = compose(f, g, h);
+let finalValue = composedFns(2);
+
+log(finalValue); // 4
