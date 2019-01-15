@@ -16,6 +16,12 @@
 - [Criação de variáveis e contextos léxicos em Clojure](https://blog.bltavares.com/2015/01/28/criacao-de-variaveis-e-contextos-lexicos-em-clojure/)
 - [Stuart Sierra blog](https://stuartsierra.com/writing)
 
+## Advanced FP
+
+- [Learning Clojure: transducers](https://blog.frankel.ch/learning-clojure/6/)
+- [Learning Clojure: the arrow and doto macros](https://blog.frankel.ch/learning-clojure/2/)
+- [Decoding Clojure code, getting your feet wet](https://blog.frankel.ch/decoding-clojure-code/)
+
 ## Clojure API
 
 - [map with partial](https://practicalli.github.io/clojure/thinking-functionally/map-with-partial.html)

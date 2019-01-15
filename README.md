@@ -70,6 +70,7 @@
 - [Benefits of Functional Programming beyond map/filter/reduce](https://www.youtube.com/watch?v=oaa4XiwEq1E&ab_channel=Jfokus)
 - [Benefits of Functional Programming by Example](https://medium.com/@nickmccurdy/benefits-of-functional-programming-by-example-76f1135b0b18)
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+- [Switching from OOP to Functional Programming](https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3)
 
 ## Advanced Topics
 
@@ -83,6 +84,7 @@
 - [Functional Programming, Abstraction, and Naming Things](http://www.stephendiehl.com/posts/abstraction.html)
 - [SOLID: the next step is Functional](http://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
 - [Functional Design Patterns](https://www.youtube.com/watch?reload=9&v=srQt1NAHYC0&ab_channel=NDCConferences)
+- [Free Monads Explained (pt 1)](https://medium.com/@olxc/free-monads-explained-pt-1-a5c45fbdac30)
 
 ## Advanced Topics: Category Theory
 
