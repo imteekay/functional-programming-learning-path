@@ -42,3 +42,32 @@ const double = n => n * 2;
 const doubleAll = map(double);
 const doubled = doubleAll(arr);
 log(doubled); // => [2, 4, 6, 8, 10]
+
+// Get element by value from list of objects
+// Using currying for specialized functions
+
+const posts = [
+  { id: '0001', title: 'Title 0001' },
+  { id: '0002', title: 'Title 0002' },
+  { id: '0003', title: 'Title 0003' },
+  { id: '0004', title: 'Title 0004' }
+]
+
+const getFromBasic = (list, field) => (value) =>
+  list[list.map(el => el[field]).indexOf(value)];
+
+const getByIdBasic = (list, field = "id") => getFromBasic(list, field);
+
+let selected = getByIdBasic(posts)('0003');
+log(selected);
+
+const getFrom = (field) => (list) => (value) =>
+  list[list.map(el => el[field]).indexOf(value)];
+
+const getById = getFrom('id');
+const getByTitle = getFrom('title');
+
+selected = getById(posts)('0003');
+log(selected);
+selected = getByTitle(posts)('Title 0004');
+log(selected);
