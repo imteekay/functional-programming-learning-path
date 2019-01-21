@@ -21,6 +21,7 @@
 - [Pure functions in Javascript](http://nicoespeon.com/en/2015/01/pure-functions-javascript/)
 - [Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 - [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs&ab_channel=CodingTech)
+- [Functional programming with Javascript](https://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
 
 ## Intermediate
 
@@ -32,6 +33,8 @@
 - [Adding pipelines to JavaScript](https://blog.logrocket.com/adding-pipelines-to-javascript-f79ae7311574)
 - [Functors by mpj](https://www.youtube.com/watch?v=DisD9ftUyCk)
 - [Functors in Javascript](http://functionaljavascript.blogspot.com.br/2013/07/functors.html)
+- [JavaScript and Type Thinking](https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d)
+- [Functional Composition in Javascript](https://joecortopassi.com/articles/functional-composition-in-javascript/)
 
 # With React
 
@@ -50,3 +53,8 @@
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming (OLD)](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [Functional JavaScript Mini Book by Jichao Ouyang](https://jcouyang.gitbooks.io/functional-javascript/content/en/index.html)
 - [Pragmatic Function Javascript online book](https://haskellcamargo.gitbooks.io/pragmatic-functional-javascript/)
+
+## Lists
+
+- [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript)
+- [Awesome FRP JS](https://github.com/stoeffel/awesome-frp-js)

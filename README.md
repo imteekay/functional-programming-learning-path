@@ -9,8 +9,10 @@
 - [Books](#books)
 - [Declarative Programming](#declarative-programming)
 - [Blogs](#blogs)
+- [Projects](#projects)
 - [Podcasts](#podcasts)
 - [Courses](#courses)
+- [Lists](#lists)
 - [Community](#community)
 - [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
 - [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
@@ -47,6 +49,7 @@
 - [So You Want to be a Functional Programmer (Part 6)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403)
 - [Friendly Functional Programming](https://functional.works-hub.com/learn/friendly-functional-programming-b3e93)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
+- [Destroy All Ifs](http://degoes.net/articles/destroy-all-ifs)
 
 ## Higher Order Functions
 
@@ -85,6 +88,7 @@
 - [SOLID: the next step is Functional](http://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
 - [Functional Design Patterns](https://www.youtube.com/watch?reload=9&v=srQt1NAHYC0&ab_channel=NDCConferences)
 - [Free Monads Explained (pt 1)](https://medium.com/@olxc/free-monads-explained-pt-1-a5c45fbdac30)
+- [Perpetual Currying in JavaScript](https://medium.com/@paramsingh_66174/perpetual-currying-in-javascript-5ae1c749adc5)
 
 ## Advanced Topics: Category Theory
 
@@ -114,6 +118,10 @@
 - [Patterns in Functional Programming](https://patternsinfp.wordpress.com/)
 - [Kevin Sookocheff - Functional Programming](https://sookocheff.com/tags/functional-programming/)
 
+## Projects
+
+- [YouTube instant search with FP](https://jaysoo.ca/2016/01/13/functional-programming-little-ideas/)
+
 ## Podcasts
 
 - [Programação Funcional com Erick Pintor e Bruno Tavares](http://tecnologicamentearretado.com.br/2014/12/31/programacao-funcional-com-erick-e-bruno/)
@@ -126,6 +134,11 @@
 ## Courses
 
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+
+## Lists
+
+- [Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
+- [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 
 ## Community
 
