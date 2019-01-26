@@ -50,6 +50,7 @@
 - [Friendly Functional Programming](https://functional.works-hub.com/learn/friendly-functional-programming-b3e93)
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 - [Destroy All Ifs](http://degoes.net/articles/destroy-all-ifs)
+- [THE PILLARS OF FUNCTIONAL PROGRAMMING (PART 1)](https://sigma.software/about/media/pillars-functional-programming-part-1)
 
 ## Higher Order Functions
 

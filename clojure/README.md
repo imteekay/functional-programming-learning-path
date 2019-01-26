@@ -30,6 +30,8 @@
 - [Benchmark programs in Clojure](https://github.com/jafingerhut/clojure-benchmarks)
 - [Comparators Guide](https://clojure.org/guides/comparators)
 - [Sort by](https://github.com/jafingerhut/thalia/blob/master/doc/project-docs/clojure.core-1.5.1/clojure.core/sort-by.md)
+- [Repl Driven Development by Stuart Halloway](https://vimeo.com/223309989)
+- [Repl Driven Development by Jay Fields](http://blog.jayfields.com/2014/01/repl-driven-development.html)
 
 ## Tests
 
