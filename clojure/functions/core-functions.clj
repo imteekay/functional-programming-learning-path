@@ -42,3 +42,19 @@
         {}
         {:max 30 :min 10})
 ; => {:max 31, :min 11}
+
+; slugify function
+
+(defn slugify [text]
+  (-> text
+      (clojure.string/trim)
+      (clojure.string/lower-case)
+      (clojure.string/replace " " "-")))
+
+(def text "  OLA mundao ")
+
+(clojure.string/trim text)
+(clojure.string/lower-case text)
+(clojure.string/replace text " " "-")
+
+(slugify text)

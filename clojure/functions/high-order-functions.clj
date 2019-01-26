@@ -37,3 +37,10 @@
 ;  {:band "Burial"     :plays 979  :loved 9}
 ;  {:band "Bill Evans" :plays 979  :loved 9}
 ;  {:band "Eno"        :plays 2333 :loved 15})
+
+(sort-by (columns [:plays :loved :band]) plays)
+
+
+(map {:band "Bill Evans", :plays 979,  :loved 9} [:plays :loved :band])
+
+({:band "Bill Evans", :plays 979,  :loved 9} :plays)
