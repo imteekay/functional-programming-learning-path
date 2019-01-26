@@ -72,13 +72,13 @@
 
 ## Books
 
-- [Clojure Applied](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/clojure-applied.pdf)
-- [Clojure data structures and algorithms cookbook](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/clojure-data-structures-and-algorithms-cookbook.pdf)
-- [Clojure in action](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/clojure-in-action.pdf)
-- [Mastering Clojure Macros](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/mastering-clojure-macros-pragmatic.pdf)
-- [Practical Clojure](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/practical-clojure.pdf)
-- [The Joy of Clojure](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/the-joy-of-clojure.pdf)
-- [Clojure Cookbook](https://github.com/tk-learning-center/learning-functional-programming/blob/master/clojure/books/clojure-cookbook-recipes-for-functional-programming.pdf)
+- [Clojure Applied](https://www.amazon.com/Clojure-Applied-Practitioner-Ben-Vandgrift/dp/1680500740)
+- [Clojure data structures and algorithms cookbook](https://www.amazon.com/Clojure-Data-Structures-Algorithms-Cookbook-ebook/dp/B00YSIM3PU/ref=sr_1_1?s=books&ie=UTF8&qid=1548537151&sr=1-1&keywords=Clojure+data+structures+and+algorithms+cookbook)
+- [Clojure in action](https://www.amazon.com/Clojure-Action-Amit-Rathore/dp/1617291528/ref=sr_1_1?s=books&ie=UTF8&qid=1548537165&sr=1-1&keywords=Clojure+in+action)
+- [Mastering Clojure Macros](https://www.amazon.com/Mastering-Clojure-Macros-Cleaner-Smarter/dp/1941222226/ref=sr_1_1?s=books&ie=UTF8&qid=1548537179&sr=1-1&keywords=Mastering+Clojure+Macros)
+- [Practical Clojure](https://www.amazon.com/Practical-Clojure-Experts-Voice-Source/dp/1430272317/ref=sr_1_2?s=books&ie=UTF8&qid=1548537192&sr=1-2&keywords=Practical+Clojure)
+- [The Joy of Clojure](https://www.amazon.com/Joy-Clojure-Michael-Fogus/dp/1617291412/ref=sr_1_1?s=books&ie=UTF8&qid=1548537207&sr=1-1&keywords=The+Joy+of+Clojure)
+- [Clojure Cookbook](https://www.amazon.com/Clojure-Cookbook-Recipes-Functional-Programming/dp/1449366171/ref=sr_1_1?s=books&ie=UTF8&qid=1548537215&sr=1-1&keywords=Clojure+Cookbook)
 
 ## Repositories
 
