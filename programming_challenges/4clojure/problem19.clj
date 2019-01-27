@@ -23,3 +23,10 @@
   (-> coll
       reverse
       first))
+
+; Solution 6
+(fn [coll]
+  (loop [[item & remaining] coll]
+    (if (empty? remaining)
+      item
+      (recur remaining))))
