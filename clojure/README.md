@@ -61,6 +61,8 @@
 - [Readable Clojure](http://tonsky.me/blog/readable-clojure/)
 - [Validations with Schema](https://camdez.com/blog/2015/08/27/practical-data-coercion-with-prismatic-schema/)
 - [Component pattern in Clojure](https://www.youtube.com/watch?v=13cmHf_kt-Q&ab_channel=ClojureTV)
+- [Clean Clojure: Meaningful Names](http://ecmendenhall.github.io/blog/blog/2013/09/02/clean-clojure-meaningful-names/)
+- [Clean Clojure: Small Functions](http://ecmendenhall.github.io/blog/blog/2013/09/05/clean-clojure-functions/)
 
 ## Challenges
 
