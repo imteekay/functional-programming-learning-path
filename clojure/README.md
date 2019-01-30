@@ -32,6 +32,7 @@
 - [Sort by](https://github.com/jafingerhut/thalia/blob/master/doc/project-docs/clojure.core-1.5.1/clojure.core/sort-by.md)
 - [Repl Driven Development by Stuart Halloway](https://vimeo.com/223309989)
 - [Repl Driven Development by Jay Fields](http://blog.jayfields.com/2014/01/repl-driven-development.html)
+- [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 
 ## Tests
 

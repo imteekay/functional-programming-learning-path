@@ -51,6 +51,7 @@
 - [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 - [Destroy All Ifs](http://degoes.net/articles/destroy-all-ifs)
 - [THE PILLARS OF FUNCTIONAL PROGRAMMING (PART 1)](https://sigma.software/about/media/pillars-functional-programming-part-1)
+- [Functional Programming Patterns: Cookbook](https://medium.com/@karthikiyengar/functional-programming-patterns-cookbook-3a0dfe2d7e0a)
 
 ## Higher Order Functions
 
