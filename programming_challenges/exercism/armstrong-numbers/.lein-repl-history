@@ -1,0 +1,14 @@
+(defn int->digits [int]
+  (map (comp #(- % 48) int) (str int)))
+(defn power-by-two [digits]
+  (map #(* % (count digits)) digits))
+(defn powered-sum [num]
+  (->> num
+       int->digits
+       power-by-two
+       (reduce +)))
+(defn armstrong? [num]
+  (= (powered-sum num) num))
+(armstrong? 123)
+(int->digits 123)
+quit
