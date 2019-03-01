@@ -2,6 +2,7 @@
 
 ## Table of Content
 
+- [JavaScript](https://github.com/leandrotk/functional-programming-learning-path/tree/master/javascript/javascript/README.md)
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
