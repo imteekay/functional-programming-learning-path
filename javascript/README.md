@@ -36,6 +36,7 @@
 - [Functors in Javascript](http://functionaljavascript.blogspot.com.br/2013/07/functors.html)
 - [JavaScript and Type Thinking](https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d)
 - [Functional Composition in Javascript](https://joecortopassi.com/articles/functional-composition-in-javascript/)
+- [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
 # With React
 
@@ -47,6 +48,7 @@
 ## Courses
 
 - [Functional Programming Patterns With RamdaJS!](https://www.educative.io/collection/5070627052453888/5738600293466112)
+- [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
 ## Books
 
