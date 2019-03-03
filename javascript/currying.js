@@ -25,6 +25,8 @@ const addTen = add(10);
 log(addTen(10)); // 20
 log(addTen(0)); // 10
 
+// ---------------------------------------------------------------------------------------------
+
 // Outside of function composition, currying is a useful abstraction we can use to specialize functions
 // One example is to curry the map function
 
@@ -71,3 +73,40 @@ selected = getById(posts)('0003');
 log(selected);
 selected = getByTitle(posts)('Title 0004');
 log(selected);
+
+// ---------------------------------------------------------------------------------------------
+
+/*
+ jQuery approach
+ $('some-css-class').on('click', callback);
+*/
+
+/*
+ How I want to use
+ - onClick(element, handler);
+ - onHover(element, handler);
+*/
+
+/*
+ A more generic approach
+ (event) => (element, handler) => fn
+
+ The idea is to use curry
+ - receive the event string first and return a new function
+ - the new function receives the element and the callback handler
+ - passing the event string first helps to create specialized functions (e.g. onClick and onHover)
+*/
+const eventListener = (event) => (element, handler) => element.addEventListener(event, handler);
+
+const onClick = eventListener('click');
+const onHover = eventListener('hover');
+
+/*
+ Example: on click event for the vote button
+ This example runs page this StackOverflow page
+ https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick
+*/
+const voteUpButton = document.getElementsByClassName('js-vote-up-btn')[0];
+const helloAlert = () => alert('Hello!');
+
+onClick(voteUpButton, helloAlert);
