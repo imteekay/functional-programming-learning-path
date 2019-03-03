@@ -49,6 +49,7 @@
 
 - [Functional Programming Patterns With RamdaJS!](https://www.educative.io/collection/5070627052453888/5738600293466112)
 - [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+- [Introduction to The Beginner's Guide to ReactJS](https://egghead.io/lessons/react-introduction-to-the-beginner-s-guide-to-reactjs)
 
 ## Books
 
