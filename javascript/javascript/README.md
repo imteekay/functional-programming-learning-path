@@ -6,6 +6,8 @@
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
 - [React](#react)
+- [Redux](#redux)
+- [Testing](#testing)
 - [Courses](#courses)
 - [Books](#books)
 
@@ -20,6 +22,9 @@
 ## Redux
 - [Redux Basics](https://levelup.gitconnected.com/redux-basics-cebf8e921f3)
 - [Where and When to Fetch Data With Redux](https://daveceddia.com/where-fetch-data-redux/)
+
+## Testing
+- [Mocking API Requests with Jest](https://medium.com/@lucaspenzeymoog/mocking-api-requests-with-jest-452ca2a8c7d7)
 
 ## Courses
 - [ReactJS Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
