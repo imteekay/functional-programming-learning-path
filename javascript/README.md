@@ -6,6 +6,7 @@
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
+- [With React](#with-react)
 - [Courses](#courses)
 - [Books](#books)
 
@@ -23,6 +24,7 @@
 - [Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 - [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs&ab_channel=CodingTech)
 - [Functional programming with Javascript](https://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
+- [Map, Filter, Reduce in Typescript](https://www.matthewgerstman.com/map-filter-reduce/)
 
 ## Intermediate
 
@@ -38,7 +40,7 @@
 - [Functional Composition in Javascript](https://joecortopassi.com/articles/functional-composition-in-javascript/)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
-# With React
+## With React
 
 - [An intro to Functional Programming in JavaScript and React](https://medium.com/@agm1984/an-overview-of-functional-programming-in-javascript-and-react-part-one-10d75b509e9e)
 - [Functional Programming in JavaScript and React (Part Two)](https://medium.com/@agm1984/functional-programming-in-javascript-and-react-part-two-521ea9f57d30)
