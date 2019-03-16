@@ -46,6 +46,8 @@
 - [Functional Programming in JavaScript and React (Part Two)](https://medium.com/@agm1984/functional-programming-in-javascript-and-react-part-two-521ea9f57d30)
 - [Mastering React Functional Components with Recompose](https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd6ac98834)
 - [Taste the principles of functional programming in React](https://codinglawyer.net/index.php/2018/01/31/taste-the-principles-of-functional-programming-in-react/)
+- [The functional side of React](https://medium.com/@andrea.chiarelli/the-functional-side-of-react-229bdb26d9a6)
+- [Functional React](https://levelup.gitconnected.com/functional-react-is-it-possible-ceaf5ed91bfd)
 
 ## Courses
 
