@@ -49,6 +49,10 @@
 - [The functional side of React](https://medium.com/@andrea.chiarelli/the-functional-side-of-react-229bdb26d9a6)
 - [Functional React](https://levelup.gitconnected.com/functional-react-is-it-possible-ceaf5ed91bfd)
 
+## With Redux
+
+- [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+
 ## Courses
 
 - [Functional Programming Patterns With RamdaJS!](https://www.educative.io/collection/5070627052453888/5738600293466112)
