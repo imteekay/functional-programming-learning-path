@@ -5,6 +5,7 @@
 - [4Clojure](http://www.4clojure.com/)
 - [Clojure Koans](https://github.com/functional-koans/clojure-koans)
 - [Exercism Clojure Track](https://exercism.io/my/tracks/clojure)
+- [Exercism JavaScript Track](https://exercism.io/my/tracks/javascript)
 - [Hacker Rank FP Path](https://www.hackerrank.com/domains/fp)
 - [Clojure Katas](https://github.com/marshallshen/clojure-katas)
 - [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
