@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Recreating .ready()</title>
+    <style>
+      body {
+        margin: 0px;
+      }
+      .responsive {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Are you doing work when the document is ready?</h1>
+    <h3>
+      Your wrapper should resolve before the huge image finishes loading. Turn
+      on
+      <a
+        href="https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/network-conditions"
+        >network throttling</a
+      >
+      to test.
+    </h3>
+    <div class="completion">Wrapper hasn't resolved yet!</div>
+    <img
+      class="responsive"
+      src="San_Francisco_Market_Street_between_4th_and_5th_St.jpg"
+      height="2448"
+      width="3264"
+      alt="SF Market Street"
+    />
+    <p>
+      <a
+        href="https://commons.wikimedia.org/wiki/File:San_Francisco_Market_Street_between_4th_and_5th_St.jpg"
+        >Photo: Andreas Praefcke (Own work) [GFDL
+        (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0
+        (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons</a
+      >
+    </p>
+    <script>
+      function ready() {
+        return new Promise(function(resolve) {
+          document.addEventListener("readystatechange", function() {
+            if (document.readyState !== "loading") {
+              resolve();
+            }
+          });
+        });
+      }
+
+      ready().then(wrapperResolved);
+
+      function wrapperResolved() {
+        var completion = document.querySelector(".completion");
+        completion.innerHTML = "Resolved!";
+      }
+    </script>
+  </body>
+</html>
