@@ -39,6 +39,7 @@
 - [JavaScript and Type Thinking](https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d)
 - [Functional Composition in Javascript](https://joecortopassi.com/articles/functional-composition-in-javascript/)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+- [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
 
 ## With React
 
