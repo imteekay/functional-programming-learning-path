@@ -8,7 +8,7 @@ const doStuff = x => {
   const gOutput = g(x);
   const fOutput = f(gOutput);
   return fOutput;
-}
+};
 
 let result = doStuff(20);
 log(result); // 42
@@ -19,7 +19,6 @@ const doStuffBetter = x => f(g(x));
 result = doStuffBetter(20);
 log(result); // 42
 
-
 // debugging the doStuff function
 const doStuffWithDebugging = x => {
   const gOutput = g(x);
@@ -27,7 +26,7 @@ const doStuffWithDebugging = x => {
   const fOutput = f(gOutput);
   console.log(`after f: ${fOutput}`);
   return fOutput;
-}
+};
 
 doStuffWithDebugging(20);
 // after g: 21
@@ -39,9 +38,15 @@ const compose = (...fns) => n => fns.reduceRight((acc, fn) => fn(acc), n);
 const trace = message => input => {
   console.log(`${message} ${input}`);
   return input;
-}
+};
 
-const doStuffBetterWithDebugging = compose(trace("after f:"), f, trace("after g:"), g);
+const doStuffBetterWithDebugging = compose(
+  trace("after f:"),
+  f,
+  trace("after g:"),
+  g
+);
+
 doStuffBetterWithDebugging(20);
 // after g: 21
 // after f: 42
