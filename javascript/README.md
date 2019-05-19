@@ -40,6 +40,7 @@
 - [Functional Composition in Javascript](https://joecortopassi.com/articles/functional-composition-in-javascript/)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
+- [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
 
 ## With React
 
