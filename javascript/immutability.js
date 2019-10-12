@@ -12,3 +12,24 @@ console.log(name); // 'TK'
 
   immutable objects are more thread-safe than mutable objects.
 */
+
+// When creating a "constant", we can't reference another value to it.
+const reference = 1;
+// reference = 2; => TypeError: Assignment to constant variable.
+
+// We can create another array by using array destructuring
+const array = [1, 2];
+
+const newArray = [...array, 3];
+
+console.log(newArray);
+
+// We can create another object by using object destructuring
+const object = {
+  one: 1,
+  two: 2
+};
+
+const newObject = { ...object, three: 3 };
+
+console.log(newObject);
