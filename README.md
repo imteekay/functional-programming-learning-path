@@ -136,6 +136,7 @@
 ## Courses
 
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+- [Introduction to Functional Programming](https://www.edx.org/course/introduction-to-functional-programming)
 
 ## Lists
 
