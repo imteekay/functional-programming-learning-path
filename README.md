@@ -104,9 +104,10 @@
 
 ## Books
 
-- [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)
-- [Category Theory for Programmers](https://github.com/tk-learning-center/functional-programming-learning-path/blob/master/books/category-theory-for-programmers.pdf)
-- [Conceptual Mathematica](https://github.com/tk-learning-center/functional-programming-learning-path/blob/master/books/conceptual_mathematics.pdf)
+- [How to Design Programs](https://htdp.org/2019-02-24/)
+- [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+- [SICP - Structure and Interpretation
+of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 
 ## Declarative Programming
 
