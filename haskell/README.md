@@ -1,3 +1,5 @@
+<samp>
+
 # Haskell
 
 ## Table of Content
@@ -18,3 +20,5 @@
 ## Books
 
 - [The Joy of Haskell](https://joyofhaskell.com/)
+
+</samp>

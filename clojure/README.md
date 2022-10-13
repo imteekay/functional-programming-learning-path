@@ -1,3 +1,5 @@
+<samp>
+
 # Clojure Resources
 
 ## Functional Clojure
@@ -102,3 +104,5 @@
 - [Clojure Bridge SP](https://twitter.com/ClojureBridgeSP)
 - [Clojure Bridge](https://twitter.com/ClojureBridge)
 - [Functional Design in Clojure Podcast](http://twitter.com/@clojuredesign)
+
+</samp>

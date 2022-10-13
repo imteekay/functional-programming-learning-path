@@ -1,3 +1,5 @@
+<samp>
+
 # Resources
 
 ## Table of Content
@@ -96,7 +98,6 @@
 
 - [From design patterns to category theory by Mark Seemann](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
 
-
 ## Talks
 
 - [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY&ab_channel=IvanPlyusnin)
@@ -107,7 +108,7 @@
 - [How to Design Programs](https://htdp.org/2019-02-24/)
 - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [SICP - Structure and Interpretation
-of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+  of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 
 ## Declarative Programming
 
@@ -155,3 +156,9 @@ of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-tex
 - J. Michael Ashley
 - R. Kent Dybvig
 - Erik Hilsdale
+
+## License
+
+[MIT](/license) © [TK](https://iamtk.co)
+
+</samp>
