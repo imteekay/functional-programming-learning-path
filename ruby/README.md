@@ -1,3 +1,5 @@
+<samp>
+
 ## Ruby Resources
 
 - [Programação funcional que funciona por Rodrigo Serradura](https://www.youtube.com/watch?v=w1OwYWe4UFo&ab_channel=GURUSPtalks)
@@ -8,3 +10,5 @@
 - [Using `yield_self` for composable ActiveRecord relations](https://robots.thoughtbot.com/using-yieldself-for-composable-activerecord-relations)
 - [yield_self is more awesome than you could think](https://zverok.github.io/blog/2018-01-24-yield_self.html)
 - [Exploring Ruby 2.6 — Proc#compose and Enumerator#chain](https://medium.com/@baweaver/exploring-ruby-2-6-proc-compose-and-enumerator-chain-49f10e237542)
+
+</samp>

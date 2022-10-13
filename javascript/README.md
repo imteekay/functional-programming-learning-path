@@ -1,3 +1,5 @@
+<samp>
+
 # JavaScript Functional Programming
 
 ## Table of Content
@@ -72,3 +74,5 @@
 
 - [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript)
 - [Awesome FRP JS](https://github.com/stoeffel/awesome-frp-js)
+
+</samp>

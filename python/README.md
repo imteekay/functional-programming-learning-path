@@ -1,3 +1,5 @@
+<samp>
+
 # Python Resources
 
 ## Posts
@@ -17,3 +19,5 @@
 ## Books
 
 - [Functional Programming in Python](https://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
+
+</samp>
