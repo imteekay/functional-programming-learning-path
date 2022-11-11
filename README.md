@@ -31,7 +31,6 @@
 - [Programação Funcional para iniciantes](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
-- [Functional Programming Study Plan](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/)
 - [Your functional journey](https://purelyfunctional.tv/guide/your-functional-journey/)
 - [The Benefits of Pure Functions](https://alvinalexander.com/scala/fp-book/benefits-of-pure-functions)
 - [Pure Functions](https://www.sitepoint.com/functional-programming-pure-functions/)
