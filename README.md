@@ -16,11 +16,12 @@
 - [Courses](#courses)
 - [Lists](#lists)
 - [Community](#community)
-- [Clojure](https://github.com/LeandroTk/learning-functional/tree/master/clojure)
-- [JavaScript](https://github.com/LeandroTk/learning-functional/tree/master/javascript)
-- [Python](https://github.com/LeandroTk/learning-functional/tree/master/python)
-- [Ruby](https://github.com/LeandroTk/learning-functional/tree/master/ruby)
-- [Programming Challenges](https://github.com/LeandroTk/learning-functional/tree/master/programming_challenges)
+- [JavaScript](https://github.com/imteekay/functional-programming-learning-path/tree/master/javascript)
+- [Rust](https://github.com/imteekay/functional-programming-learning-path/tree/master/rust)
+- [Clojure](https://github.com/imteekay/functional-programming-learning-path/tree/master/clojure)
+- [Python](https://github.com/imteekay/functional-programming-learning-path/tree/master/python)
+- [Ruby](https://github.com/imteekay/functional-programming-learning-path/tree/master/ruby)
+- [Programming Challenges](https://github.com/imteekay/functional-programming-learning-path/tree/master/programming_challenges)
 
 ## Foundation
 
