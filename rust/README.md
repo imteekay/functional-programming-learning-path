@@ -4,7 +4,12 @@
 
 ## Table of Content
 
+- [General](#general)
 - [Books](#books)
+
+## General
+
+- [Functional Language Features: Iterators and Closures](https://doc.rust-lang.org/book/ch13-00-functional-features.html)
 
 ## Books
 
