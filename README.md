@@ -128,6 +128,7 @@
 
 ## Podcasts
 
+- [LambdaCast](https://soundcloud.com/lambda-cast)
 - [Programação Funcional com Erick Pintor e Bruno Tavares](http://tecnologicamentearretado.com.br/2014/12/31/programacao-funcional-com-erick-e-bruno/)
 - [Programação Funcional com Juliano alves](https://www.tecnoretorica.com.br/2013/04/programacao-funcional/)
 - [Programação Funcional - Inviavel Podcast](http://inviavelpodcast.com/10/)
