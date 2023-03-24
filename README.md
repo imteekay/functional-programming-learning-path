@@ -1,6 +1,6 @@
 <samp>
 
-# Resources
+# Functional Programming Learning Path
 
 ## Table of Content
 
