@@ -1,6 +1,6 @@
 <samp>
 
-# Resources
+# Functional Programming Learning Path
 
 ## Table of Content
 
@@ -143,8 +143,8 @@
 
 ## Lists
 
-- [Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
-- [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
+- [Awesome Functional Programming by @lucasviola](https://github.com/lucasviola/awesome-functional-programming)
+- [Awesome Functional Programming by @xgrommx](https://github.com/xgrommx/awesome-functional-programming)
 
 ## Community
 
