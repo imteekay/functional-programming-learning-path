@@ -140,7 +140,7 @@
 
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
 - [Introduction to Functional Programming](https://www.edx.org/course/introduction-to-functional-programming)
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/functional-programming) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Lists
 
